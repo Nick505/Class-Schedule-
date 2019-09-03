@@ -1,0 +1,45 @@
+package pkgclass.schedule;
+
+/**
+ *
+ * @author 21525
+ */
+public class ClassSchedule {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main (String[] args) {
+        String subject1 = "Begin Weight Training";
+        String teacher1 = "Mr. Dukes";
+        String subject2 = "Global Studies";
+        String teacher2 = "Mr.Duggard"; 
+        String subject3 = "Environmental Science";
+        String teacher3 = "Mr. Connel";
+        String subject4 = "English Accelerated"; 
+        String teacher4 = "Mr. Chacon";
+        String subject5 = "Algebra 2"; 
+        String teacher5 = "Mr. Weber";
+        String subject6 = "American History"; 
+        String teacher6 = "Mr. Hermida";
+        String subject7 = "Computer Science"; 
+        String teacher7 = "Mr. La Rubia";  
+        
+        System.out.println("My name is Nicholas Taboada and I will be graduating in 2021");
+        
+        System.out.println("_");
+         System.out.println("My Class Schedule");
+          System.out.println("------------------------------------------+");
+          System.out.println("1 | Beginning Weight Training | Mr. Dukes |");
+          System.out.println("2 | Global Studies            |Mr. Duggard|");
+          System.out.println("3 | Environmental Science     | Mr. Connel|");
+          System.out.println("4 | English Accelerated       | Mr. Chacon|");
+          System.out.println("5 | Algebra 2                 | Mr. Weber |");
+          System.out.println("6 | American History          | Mr. Havier|");
+          System.out.println("7 | Hon Computer Science      |Mr. Larubia|");
+          System.out.println("------------------------------------------+");
+          System.out.println("_");
+    }
+    
+}
+     
